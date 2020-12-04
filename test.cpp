@@ -1,6 +1,7 @@
 #include <iostream>
 
-void main()
+int main()
 {
   cout<<"hello world!"<<endl;
+  return 0;
 }
