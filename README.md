@@ -27,3 +27,6 @@ This is my start.
 
 #### 2022年6月9日
 ubuntu更新，用的是ssh协议传输
+
+#### 2022年12月10日
+git bash更新，用windows命令行
